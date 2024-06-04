@@ -24,22 +24,17 @@ To install the extension, follow these steps:
 2. Search for "Pillar Snippets".
 3. Click "Install".
 
+## Contributing
+If you would like to contribute to this project, please follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature-branch).
+Open a pull request.
+
 ## Release Notes
+For a detailed list of changes, please see the [CHANGELOG](https://github.com/YudhistiraMin/pilar-snippets/blob/main/CHANGELOG.md).
 
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
 
 **Enjoy!**
