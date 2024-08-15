@@ -21,6 +21,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed an issue where certain HTML snippets did not properly close tags.
 - Resolved a bug causing CSS snippets to generate incorrect syntax in some cases. -->
 
+## [1.0.4] - 2024-08-15
+### Added
+- No new features added in this release.
+
+### Changed
+- Refined and cleaned up index snippets for better readability and structure.
+- Updated TypeScript file for the timeline snippets, improving code organization and readability.
+- Enhanced the detail snippets HTML layout for better visual consistency and structure.
+
+### Fixed
+- No bug fixes in this release.
+
+### Removed
+- No features removed in this release.
+
 ## [1.0.3] - 2024-08-15
 ### Added
 - Added snippets for success dialog.
