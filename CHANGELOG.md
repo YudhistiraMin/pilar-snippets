@@ -21,12 +21,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed an issue where certain HTML snippets did not properly close tags.
 - Resolved a bug causing CSS snippets to generate incorrect syntax in some cases. -->
 
+## [1.0.3] - 2024-08-15
+### Added
+- Added snippets for success dialog.
+- Added snippets for warning dialog.
+- Added snippets for danger dialog.
+- Added snippets for confirmation dialog.
+- Added snippets for Infobox.
+- Added snippets for cardList.
+
+### Changed
+- No changes in this release.
+
+### Fixed
+- No bug fixes in this release.
+
+### Removed
+- No features removed in this release.
+
 ## [1.0.2] - 2024-06-21
 ### Added
 - No new features added in this release.
 
 ### Changed
-- Updated data type definitions: default types are now used instead of interfaces.
+- No changes in this release.
 
 ### Fixed
 - No bug fixes in this release.

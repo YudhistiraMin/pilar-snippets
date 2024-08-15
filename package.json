@@ -3,7 +3,7 @@
   "displayName": "Pilar Snippets",
   "publisher": "YudhistiraArsyaYudha",
   "description": "",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -32,7 +32,7 @@
         "path": "./snippets/ps-snippets.code-snippets"
       },
       {
-        "language": "css",
+        "language": "scss",
         "path": "./snippets/ps-snippets.code-snippets"
       }
     ]
