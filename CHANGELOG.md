@@ -21,6 +21,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed an issue where certain HTML snippets did not properly close tags.
 - Resolved a bug causing CSS snippets to generate incorrect syntax in some cases. -->
 
+## [1.0.5] - 2024-08-16
+### Added
+- Added dollar signs to variable names in the infobox snippets scss.
+
+### Changed
+- Cleaned up the index snippets html snippets by replacing semicolons with commas in the `selected` attribute.
+  
+### Fixed
+- Fixed a bug in the `cardlist` snippets to ensure proper iteration and class binding.
+
 ## [1.0.4] - 2024-08-15
 ### Added
 - No new features added in this release.
